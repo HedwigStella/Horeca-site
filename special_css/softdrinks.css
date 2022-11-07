@@ -1,0 +1,8 @@
+.LeftAligned{
+    float: left;
+    margin-left: 27%;
+}
+.RightAligned{
+    float: right;
+    margin-right: 25%;
+}
