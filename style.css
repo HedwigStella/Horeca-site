@@ -40,3 +40,13 @@ h2{
 hr{
     width: 15%;
 }
+/* De percentages in deze selectors moeten worden aangepast als de inhoud van de 2 elementen
+niet dezelfde breedte zijn */
+.LeftAligned{
+    float: left;
+    margin-left: 25%;
+}
+.RightAligned{
+    float: right;
+    margin-right: 25%;
+}
