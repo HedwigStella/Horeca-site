@@ -31,6 +31,7 @@ h2{
     font-weight: bold;
     font-size: 24px;
 }
+
 /* Voeg deze class toe aan een element als het niet gebruikt wordt op de huidige page
 (of verwijder het gewoon uit de html file) */
 .Hidden{
@@ -40,6 +41,7 @@ h2{
 hr{
     width: 15%;
 }
+
 /* De percentages in deze selectors moeten worden aangepast als de inhoud van de 2 elementen
 niet dezelfde breedte zijn */
 .LeftAligned{

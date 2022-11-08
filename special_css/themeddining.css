@@ -1,1 +1,22 @@
-
+#IntroTitle h1{
+    font-size: 32px;
+    margin-top: 46px;
+    margin-bottom: 0px;
+}
+#TopTitle u h1{
+    font-size: 54px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+#Bird_On_Stick{
+position: absolute;
+left: 0px;
+bottom: 0px;
+z-index: -1;
+}
+#Two_Birds{
+position: absolute;
+right: 0px;
+top: 0px;
+z-index: -2;
+}
