@@ -1,0 +1,8 @@
+.hide {
+    display: none;
+}
+
+.Cheesecake + .hide {
+    display: block;
+    color: rgb(85, 85, 85);
+}
