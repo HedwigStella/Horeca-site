@@ -52,3 +52,11 @@ niet dezelfde breedte zijn */
     float: right;
     margin-right: 25%;
 }
+.langswitcher *{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    z-index: 2;
+    width: 100px;
+    height: 100px;
+}
